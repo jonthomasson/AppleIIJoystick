@@ -1,0 +1,60 @@
+EESchema Schematic File Version 4
+EELAYER 29 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector:DB9_Male J?
+U 1 1 5DC4324C
+P 3775 3480
+F 0 "J?" H 3693 2788 50  0000 C CNN
+F 1 "DB9_Male" H 3693 2879 50  0000 C CNN
+F 2 "" H 3775 3480 50  0001 C CNN
+F 3 " ~" H 3775 3480 50  0001 C CNN
+	1    3775 3480
+	-1   0    0    1   
+$EndComp
+$Comp
+L AppleIIJoystick:Parallax_27800_Joystick J?
+U 1 1 5DC45FAC
+P 6515 3510
+F 0 "J?" H 6515 4185 50  0000 C CNN
+F 1 "Parallax_27800_Joystick" H 6515 4094 50  0000 C CNN
+F 2 "" H 6565 3460 50  0001 C CNN
+F 3 "" H 6565 3460 50  0001 C CNN
+	1    6515 3510
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5DC52EB7
+P 8705 2910
+F 0 "SW?" H 8705 3195 50  0000 C CNN
+F 1 "SW_Push" H 8705 3104 50  0000 C CNN
+F 2 "" H 8705 3110 50  0001 C CNN
+F 3 "~" H 8705 3110 50  0001 C CNN
+	1    8705 2910
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5DC533F1
+P 8710 3615
+F 0 "SW?" H 8710 3900 50  0000 C CNN
+F 1 "SW_Push" H 8710 3809 50  0000 C CNN
+F 2 "" H 8710 3815 50  0001 C CNN
+F 3 "~" H 8710 3815 50  0001 C CNN
+	1    8710 3615
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
