@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name AppleIIJoystick)(type Legacy)(uri ${KIPRJMOD}/AppleIIJoystick.lib)(options "")(descr ""))
+  (lib (name sw_push)(type Legacy)(uri ${KIPRJMOD}/sw_push.lib)(options "")(descr ""))
 )
